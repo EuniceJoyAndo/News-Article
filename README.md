@@ -1,4 +1,6 @@
 #Ando,EuniceJoyD._IT (OJT)Frontend_Developer_Exam(#2)
+
+
 To run the News Article File, you can open the it with VS code, sublime, or any other editor application that you are comfortable to use. Keep in mind that you have already set up the necessary extension and other application so you can run it smoothly.
 
 Then, When the you have already opened the file, you can now go to the terminal and type or copy+paste the following command;
